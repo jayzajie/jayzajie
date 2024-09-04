@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Nama Anda]!
+# 👋 Hello, I'm [Muhammad Surya Wijaya]!
 
 Welcome to my GitHub profile! I'm a passionate [profesi atau bidang yang Anda geluti] with a love for [minat atau teknologi yang Anda suka].
 
