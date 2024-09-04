@@ -11,12 +11,14 @@ Here are some of the tools and technologies I frequently use:
 ![Laravel](https://img.shields.io/badge/Laravel-E14F4F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🌱 Current Focus
-
-- student on [Politeknik Pertanian Negeri Samarinda] 💻
+## 🎓️ Graduate from
+- Alumni of [SMPN 21 Samarinda]💻
 - Alumni of [SMKN 7 Samarinda]💻
-- Learning more about [teknologi terbaru] 📚
-- Contributing to open-source projects 🤝
+- student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA💻)
+  
+## 🌱 Current Focus
+- Learning more about [Golang and ReactJS] 📚
+- Contributing to [open-source projects] 🤝
 
 
 ## ✨ Some of My Work
