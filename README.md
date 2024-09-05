@@ -43,7 +43,7 @@ I'm always open to collaborating on interesting projects. Feel free to [reach ou
 
 Here’s a little animation to brighten up your day:
 
-<img src="https://media.giphy.com/media/3o6Zt7tG7k5cD3HS6A/giphy.gif" alt="Fun Animation">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IyeXlrMmJseXRmcmR1Z3JzZGJrbWM1bnQxMHVnaWxycTR4b2d3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Fun Animation">
 
 ---
 
