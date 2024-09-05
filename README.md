@@ -14,20 +14,20 @@ Here are some of the tools and technologies I frequently use:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## 🎓️ Graduate from
-- Alumni of [SMPN 21 Samarinda]💻
-- Alumni of [SMKN 7 Samarinda]💻
-- Student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA]💻
+ Alumni of [SMPN 21 Samarinda]💻
+ Alumni of [SMKN 7 Samarinda]💻
+ Student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA]💻
 
 ## 🌱 Current Focus
-- Learning more about [Golang and ReactJS] 📚
-- Contributing to [open-source projects] 🤝
+ Learning more about [Golang and ReactJS] 📚
+ Contributing to [open-source projects] 🤝
 
 ## ✨ Some of My Work
 
 Here are a few projects I've worked on:
 
-- [First Project](https://github.com/jayzajie/Todo-List-Laravel) - Todolist Project Using Laravel
-- [Second Project](https://github.com/jayzajie/inventory-app-laravel) - Inventory project Using Laravel
+ [First Project](https://github.com/jayzajie/Todo-List-Laravel) - Todolist Project Using Laravel
+ [Second Project](https://github.com/jayzajie/inventory-app-laravel) - Inventory project Using Laravel
 
 ## 🛠️ Contributing
 
@@ -35,9 +35,9 @@ I'm always open to collaborating on interesting projects. Feel free to [reach ou
 
 ## 📫 How to Reach Me
 
-- [Instagram](https://www.instagram.com/suryawijaya_01/)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-surya-wijaya-390104286/)
-- [Email](mailto:suryawijaya1147@gmail.com)
+ [Instagram](https://www.instagram.com/suryawijaya_01/)
+ [LinkedIn](https://www.linkedin.com/in/muhammad-surya-wijaya-390104286/)
+ [Email](mailto:suryawijaya1147@gmail.com)
 
 ## 🖼️ Fun Animations
 
