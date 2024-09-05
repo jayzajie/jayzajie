@@ -1,6 +1,6 @@
-# 👋 Hello, I'm [Muhammad Surya Wijaya]!
+# 👋 Hello, I'm Muhammad Surya Wijaya!
 
-Welcome to my GitHub profile! I'm a passionate [Fullstack Developer].
+Welcome to my GitHub profile! I'm a passionate Fullstack Developer.
 
 ## 🔧 Tools & Technologies
 
@@ -14,19 +14,18 @@ Here are some of the tools and technologies I frequently use:
 ## 🎓️ Graduate from
 - Alumni of [SMPN 21 Samarinda]💻
 - Alumni of [SMKN 7 Samarinda]💻
-- student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA💻)
-  
+- Student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA]💻
+
 ## 🌱 Current Focus
 - Learning more about [Golang and ReactJS] 📚
 - Contributing to [open-source projects] 🤝
-
 
 ## ✨ Some of My Work
 
 Here are a few projects I've worked on:
 
-- [Coming Soon](https://github.com/username/project1) - A brief description of Project 1
-- [Coming Soon](https://github.com/username/project2) - A brief description of Project 2
+- [First Project](https://github.com/jayzajie/Todo-List-Laravel) - Todolist Project Using Laravel
+- [Second Project](https://github.com/jayzajie/inventory-app-laravel) - Inventory project Using Laravel
 
 ## 🛠️ Contributing
 
@@ -42,7 +41,7 @@ I'm always open to collaborating on interesting projects. Feel free to [reach ou
 
 Here’s a little animation to brighten up your day:
 
-![Fun Animation](https://raw.githubusercontent.com/username/repo/main/assets/animation.gif)
+![Fun Animation](https://media.giphy.com/media/3o6Zt7tG7k5cD3HS6A/giphy.gif)
 
 ---
 
