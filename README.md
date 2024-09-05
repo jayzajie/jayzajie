@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hello, I'm Muhammad Surya Wijaya!
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer.
@@ -41,8 +43,10 @@ I'm always open to collaborating on interesting projects. Feel free to [reach ou
 
 Here’s a little animation to brighten up your day:
 
-![Fun Animation](https://media.giphy.com/media/3o6Zt7tG7k5cD3HS6A/giphy.gif)
+<img src="https://media.giphy.com/media/3o6Zt7tG7k5cD3HS6A/giphy.gif" alt="Fun Animation">
 
 ---
 
 Thank you for visiting my profile! Have a great day! 😊
+
+</div>
