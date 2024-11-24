@@ -19,7 +19,6 @@ Here are some of the tools and technologies I frequently use:
 ## 🎓️ Graduate from
  Alumni of [SMPN 21 Samarinda]💻  
  Alumni of [SMKN 7 Samarinda]💻  
- Student of [POLITEKNIK PERTANIAN NEGERI SAMARINDA]💻
 
 ## 🌱 Current Focus
  Learning more about [Golang and ReactJS] 📚  
