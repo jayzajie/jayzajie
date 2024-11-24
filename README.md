@@ -16,10 +16,6 @@ Here are some of the tools and technologies I frequently use:
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical)
 
-## 🎓️ Graduate from
- Alumni of [SMPN 21 Samarinda]💻  
- Alumni of [SMKN 7 Samarinda]💻  
-
 ## 🌱 Current Focus
  Learning more about [Golang and ReactJS] 📚  
  Contributing to [open-source projects] 🤝
