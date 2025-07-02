@@ -12,6 +12,10 @@ Here are some of the tools and technologies I frequently use:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-E14F4F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical)
