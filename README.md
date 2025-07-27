@@ -22,9 +22,21 @@ Here are some tools and technologies I frequently use:
 
 ---
 
+## ⚙️ DevOps & CI/CD
+
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical)
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayzajie&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jayzajie&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -32,13 +44,6 @@ Here are some tools and technologies I frequently use:
 
 - Learning more about **Golang** and **ReactJS**
 - Actively contributing to open-source when time allows
-
----
-
-## 📂 Highlight Projects
-
-- [📝 Todo List Laravel](https://github.com/jayzajie/Todo-List-Laravel) – A basic todo list app using Laravel.
-- [📦 Inventory App](https://github.com/jayzajie/inventory-app-laravel) – Inventory management system built with Laravel.
 
 ---
 
