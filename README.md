@@ -2,14 +2,17 @@
 
 # 👋 Hi, I'm Muhammad Surya Wijaya
 
-Welcome to my GitHub profile! I’m a Fullstack Developer who enjoys building useful, performant, and scalable applications.
+Welcome to my GitHub profile! I'm a Fullstack Developer who enjoys building useful, performant, and scalable applications.
+
+![Profile Views](https://komarev.com/ghpvc/?username=jayzajie&color=brightgreen&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/jayzajie?label=Followers&style=social)](https://github.com/jayzajie)
+[![GitHub stars](https://img.shields.io/github/stars/jayzajie?label=Stars&style=social)](https://github.com/jayzajie)
 
 </div>
 
 ---
 
 ## 🧰 Tech Stack
-
 Here are some tools and technologies I frequently use:
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -31,19 +34,55 @@ Here are some tools and technologies I frequently use:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical)
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayzajie&show_icons=true&theme=radical)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jayzajie&theme=radical)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayzajie&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical&hide_border=true)
+![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayzajie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jayzajie&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🏆 GitHub Trophies
 
-- Learning more about **Golang** and **ReactJS**
-- Actively contributing to open-source when time allows
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jayzajie&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/jayzajie/jayzajie/output/snake.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🌱 Learning more about **Golang** and **ReactJS**
+- 🔭 Working on exciting fullstack projects
+- 👯 Actively contributing to open-source when time allows
+- 📚 Exploring cloud technologies and microservices architecture
 
 ---
 
@@ -51,20 +90,30 @@ Here are some tools and technologies I frequently use:
 
 I'm always open to working with other developers on meaningful projects. If you have something interesting in mind, feel free to reach out!
 
+[![GitHub issues](https://img.shields.io/github/issues/jayzajie/jayzajie?color=green)](https://github.com/jayzajie/jayzajie/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jayzajie/jayzajie?color=green)](https://github.com/jayzajie/jayzajie/pulls)
+
 ---
 
 ## 📬 Get in Touch
 
-- [Instagram](https://www.instagram.com/suryawijaya_01/)
-- [LinkedIn](https://www.linkedin.com/in/muhammad-surya-wijaya-390104286/)
-- [Email](mailto:suryawijaya1147@gmail.com)
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/suryawijaya_01/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-surya-wijaya-390104286/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryawijaya1147@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif?cid=ecf05e47h3vly4xtvyl9o5irn8cerk0933xeb7sv2b4oye9j&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="300" alt="GIF">
+![Coding GIF](https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif?cid=ecf05e47h3vly4xtvyl9o5irn8cerk0933xeb7sv2b4oye9j&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
-Thanks for stopping by!
+### Thanks for stopping by! 
+**Happy Coding!** 🚀
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
