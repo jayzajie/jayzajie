@@ -77,6 +77,22 @@ Here are some tools and technologies I frequently use:
 
 ---
 
+## 📅 GitHub Contribution Calendar
+
+<div align="center">
+
+![GitHub Contribution Calendar](https://ghchart.rshah.org/jayzajie)
+
+</div>
+
+<div align="center">
+
+![3D Contribution Calendar](https://github-readme-stats.vercel.app/api/wakatime?username=jayzajie&theme=radical&hide_border=true)
+
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 🌱 Learning more about **Golang** and **ReactJS**
