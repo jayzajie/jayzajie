@@ -54,52 +54,6 @@ Here are some tools and technologies I frequently use:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jayzajie&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jayzajie&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/jayzajie/jayzajie/output/snake.svg)
-
-</div>
-
----
-
-## 📅 GitHub Contribution Calendar
-
-<div align="center">
-
-![GitHub Contribution Calendar](https://ghchart.rshah.org/jayzajie)
-
-</div>
-
-<div align="center">
-
-![3D Contribution Calendar](https://github-readme-stats.vercel.app/api/wakatime?username=jayzajie&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🌱 Learning more about **Golang** and **ReactJS**
-- 🔭 Working on exciting fullstack projects
-- 👯 Actively contributing to open-source when time allows
-- 📚 Exploring cloud technologies and microservices architecture
-
 ---
 
 ## 🤝 Open to Collaborate
