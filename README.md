@@ -40,20 +40,6 @@ Here are some tools and technologies I frequently use:
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayzajie&theme=react-dark&hide_border=true&area=true)
 
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayzajie&layout=compact&theme=radical&hide_border=true)
-![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayzajie&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jayzajie&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 ---
 
 ## 🤝 Open to Collaborate
