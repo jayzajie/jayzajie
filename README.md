@@ -24,6 +24,8 @@ Comfortable working across backend, frontend, and deployment pipelines.
 
 **Database**
 - PostgreSQL
+- mySql
+- Supabase / FireBase
 
 ---
 
