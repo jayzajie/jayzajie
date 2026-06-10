@@ -40,8 +40,7 @@ Comfortable working across backend, frontend, and deployment pipelines.
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jayzajie&bg_color=0d1117&color=39d353&line=39d353&point=2ea043&area=true&hide_border=true)
-
+[![Muhammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayzajie&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/jayzajie)
 ---
 
 ## Collaboration
