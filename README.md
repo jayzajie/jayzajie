@@ -1,61 +1,21 @@
-# Muhammad Surya Wijaya
+# Hi, I'm jaya 
 
-Fullstack Developer with a focus on building reliable, scalable, and maintainable applications.  
-Comfortable working across backend, frontend, and deployment pipelines.
+Fullstack Developer from Indonesia.
 
----
+I turn coffee ☕ into:
 
-## Tech Stack
+* Laravel projects
+* Flutter apps
+* Go services
+* Docker containers
+* Bugs (sometimes)
 
-**Languages & Frameworks**
-- JavaScript
-- Go
-- Lua
-- Laravel
-- Flutter
+### Stack
 
-**Frontend**
-- Bootstrap
+`JavaScript` `Go` `Lua` `Laravel` `Flutter` `PostgreSQL` `Docker`
 
-**DevOps & Infrastructure**
-- Docker
-- Nginx
-- GitHub Actions
+### Contact
 
-**Database**
-- PostgreSQL
-- mySql
-- Supabase / FireBase
-
----
-
-## What I Do
-
-- Develop fullstack web and mobile applications
-- Design RESTful APIs and backend services
-- Implement CI/CD pipelines and containerized deployments
-- Maintain clean, readable, and testable codebases
-
----
-
-## GitHub Activity
-
-[![Muhammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jayzajie&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true)](https://github.com/jayzajie)
----
-
-## Collaboration
-
-Open to collaboration on:
-- Web or mobile applications
-- Backend systems
-- Open-source projects
-
-If you have a solid idea or need a reliable contributor, feel free to reach out.
-
----
-
-## Contact
-
-- Instagram: https://www.instagram.com/suryawijaya_01/
-- LinkedIn: https://www.linkedin.com/in/muhammad-surya-wijaya-390104286/
-- Email: suryawijaya1147@gmail.com
+* 📧 [suryawijaya1147@gmail.com](mailto:suryawijaya1147@gmail.com)
+* 💼 linkedin.com/in/muhammad-surya-wijaya-390104286
+* 📷 instagram.com/suryawijaya_01
